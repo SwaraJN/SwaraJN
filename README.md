@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SwaraJN
+<!-- - 👋 Hi, I’m @SwaraJN
 - 👀 I’m interested in ...Web Dev
 - 🌱 I’m currently learning ...FSWD
 - 💞️ I’m looking to collaborate on ...
@@ -7,8 +7,7 @@
 <!---
 SwaraJN/SwaraJN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-![animation_500_kxa883sd](https://user-images.githubusercontent.com/75193540/156818786-1dc5df82-3864-4628-a77d-c34f8c6ceeeb.gif)
+---> -->
 _____________________________________________________________________________________________________
 <a href="https://github.com/SwarajN?tab=followers">
     <img src="https://img.shields.io/github/followers/SwarajN?label=Followers&style=social" alt="GitHub Badge"></a>
@@ -20,7 +19,9 @@ ________________________________________________________________________________
 <h3 align="left">A Full-stack web developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 </h3>
 <p align="center">
-      <img src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" margin="auto" width="50%" />
+<!--       <img src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" margin="auto" width="50%" /> -->
+    
+![animation_500_kxa883sd](https://user-images.githubusercontent.com/75193540/156818786-1dc5df82-3864-4628-a77d-c34f8c6ceeeb.gif)
 </p>
 
 
