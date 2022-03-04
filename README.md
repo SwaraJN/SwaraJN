@@ -7,8 +7,8 @@
 <!---
 SwaraJN/SwaraJN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----> -->
-_____________________________________________________________________________________________________
+---> 
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 <a href="https://github.com/SwarajN?tab=followers">
     <img src="https://img.shields.io/github/followers/SwarajN?label=Followers&style=social" alt="GitHub Badge"></a>
 <a href="https://github.com/SwarajN/github-profile-views-counter">
