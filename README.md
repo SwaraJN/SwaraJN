@@ -35,11 +35,11 @@ You can click the Preview link to take a look at your changes.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects and cloning pixel perfect applications**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://dheeraj-kumar-gaur-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](Link)
 
 - 📫 How to reach me **Nikamswaraj111@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VEfqpIePWBjsMWDiZoQJkHEsJJKysuic/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yVhtj9guROF2MPZEw9vRkqSFbpy8nnBR/view?usp=sharing)
 
 - ⚡ Fun fact **I am a PhotoGrapher**
  
@@ -98,7 +98,7 @@ You can click the Preview link to take a look at your changes.
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/SwarajN"><img alt="Dheeraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dheerajkumargaur&custom_title=Swaraj_R_Nikam's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/SwarajN"><img alt="Swaraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SwarajN&custom_title=Swaraj_R_Nikam's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
   
   
