@@ -42,6 +42,9 @@ You can click the Preview link to take a look at your changes.
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yVhtj9guROF2MPZEw9vRkqSFbpy8nnBR/view?usp=sharing)
 
 - ⚡ Fun fact **I am a PhotoGrapher**
+    <hr/>
+    Here's some humor for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
  
 </p>
 
