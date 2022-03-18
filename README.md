@@ -89,14 +89,14 @@ You can click the Preview link to take a look at your changes.
 
 ## &#x1f4c8; GitHub Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=SwarajN&show_icons=true&theme=gotham" alt="SwarajN" width = "45%" />
-  <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=SwarajN&custom_title=Most Used  Languages&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Dheeraj" width = "45%"/>
+  <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=SwarajN&custom_title=Most Used  Languages&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="swaraj" width = "45%"/>
   <br/>
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
   </p>
  <br>
  
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SwarajN&theme=algolia" alt="Dheeraj" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SwarajN&theme=algolia" alt="swaraj" /></p>
 
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
