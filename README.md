@@ -35,9 +35,9 @@ You can click the Preview link to take a look at your changes.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects and cloning pixel perfect applications**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](swarajn.vercel.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://swarajn.vercel.app/)
 
- - 📫 How to reach me **Nikamswaraj111@gmail.com**
+- 📫 How to reach me **Nikamswaraj111@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yVhtj9guROF2MPZEw9vRkqSFbpy8nnBR/view?usp=sharing)
 
